@@ -1,55 +1,92 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayozetr&color=0A66C2&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Ayoze+Torres;System+Administrator+%C2%B7+Full-Stack+Dev;Cybersecurity+Enthusiast" alt="Ayoze Torres — typing" />
 
-### Ayoze Torres
+<br />
 
-System Administrator · Full-Stack Developer · Cybersecurity Enthusiast
-
-📍 Canary Islands, Spain
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDYzIDIuMDYzIDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/ayozetr/)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:ayozetr@proton.me)
+<a href="https://www.linkedin.com/in/ayozetr/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
+<a href="mailto:ayozetr@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ayozetr&style=for-the-badge&color=2EA043&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-### About
+<h2 align="center">whoami</h2>
 
-Sysadmin building toward a cybersecurity career, while shipping full-stack web apps on the side. Currently finishing the **ASIR** higher degree and self-studying for **eJPT → OSCP** and **LPIC / CompTIA A+**.
+```yaml
+name: Ayoze Torres
+role: SysAdmin · Junior Full Stack Developer
+location: Canary Islands, Spain
+portfolio: https://ayozetr.com
+organization: CreatiDEV
+ask_me_about:
+  - Linux servers & self-hosting
+  - Next.js / FastAPI products
+  - Pentesting fundamentals
+motto: "If it's worth doing, it's worth doing right."
+```
 
-### Tech Stack
+---
 
-**Languages**
+<h2 align="center">Tech Stack</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ffde24?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-117c11?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3DA639?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-E38C00?style=flat-square&logo=databricks&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2c2d72?style=flat-square&logo=lua&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-df6c20?style=flat-square&logo=database&logoColor=white)
 
-**Web**
+### 🌐 Web
+![Node.js](https://img.shields.io/badge/Node.js-6ea660?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-00b9d8?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=flat-square&logo=fastapi&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Data**
-![MySQL / MariaDB](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-E76F51?style=flat-square&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  </td>
+  <td valign="top" width="50%">
 
-**Infrastructure**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00618b?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6e78ad?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-534741?style=flat-square&logo=sqlite&logoColor=white)
 
-### Focus
+### 🖥️ Infrastructure
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078d4?style=flat-square&logo=windows11&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-e57000?style=flat-square&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2697ec?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-00953b?style=flat-square&logo=nginx&logoColor=white)
 
-- 🛡️ Cybersecurity — pentesting fundamentals, offensive security path
-- 🖥️ Infrastructure — Linux & Windows servers, virtualization, self-hosting
-- 🌐 Web apps — Next.js / FastAPI products, end-to-end deployment
-- 🤖 Automation — Bash & Python tooling
+  </td>
+  </tr>
+</table>
 
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td align="right">
+      <img height="210" src="https://github-readme-stats.vercel.app/api?username=ayozetr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+    </td>
+    <td>
+      <img height="210" src="https://github-readme-streak-stats.herokuapp.com?user=ayozetr&hide_border=true&background=0d1117&stroke=0d1117&ring=0A66C2&fire=0A66C2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0A66C2&sideLabels=c9d1d9&dates=8b949e" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayozetr&theme=github-compact&hide_border=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=c9d1d9&area=true&area_color=0A66C2" />
+    </td>
+  </tr>
+</table>
