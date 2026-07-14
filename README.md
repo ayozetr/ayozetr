@@ -89,15 +89,7 @@ motto: "If it's worth doing, it's worth doing right."
 
 <table align="center">
   <tr>
-    <td align="right">
-      <img height="210" src="https://github-readme-stats.vercel.app/api?username=ayozetr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-    </td>
     <td>
-      <img height="210" src="https://github-readme-streak-stats.herokuapp.com?user=ayozetr&hide_border=true&background=0d1117&stroke=0d1117&ring=0A66C2&fire=0A66C2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0A66C2&sideLabels=c9d1d9&dates=8b949e" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayozetr&theme=github-compact&hide_border=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=c9d1d9&area=true&area_color=0A66C2" />
     </td>
   </tr>
