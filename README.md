@@ -79,6 +79,10 @@ motto: "If it's worth doing, it's worth doing right."
 
 🛠️ <b><a href="https://github.com/baptisterajaut/radmin-vpn-linux/issues/16">radmin-vpn-linux</a></b> — Root-caused the private reverse-DNS stall and contributed the merged LD_PRELOAD fix &nbsp;<code>fix · merged</code>
 
+🐍 <b><a href="https://github.com/libratbag/libratbag/pull/1878">libratbag</a></b> — Fixed the build against SWIG 4.5 after the Python 2 C API aliases were dropped &nbsp;<code>PR · merged</code>
+
+🖱️ <b><a href="https://github.com/libratbag/piper/pull/1129">Piper</a></b> — Fixed a startup crash when ratbagd reports the same device twice &nbsp;<code>PR · merged</code>
+
 🎮 <b><a href="https://github.com/berarma/oversteer/pull/347">Oversteer</a></b> — Add power switch to enable/disable the selected wheel &nbsp;<code>PR · open</code>
 
 🐛 <b><a href="https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1194">NVIDIA open-gpu-kernel-modules</a></b> — Reported a Wayland shutdown/reboot hang (flip-event timeout) &nbsp;<code>issue · open</code>
